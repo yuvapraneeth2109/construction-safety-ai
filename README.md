@@ -25,3 +25,7 @@ construction-safety-ai
 │
 ├── requirements.txt
 └── README.md
+
+
+Watch full demo here :
+https://youtu.be/Ga0TQUKUMHI?si=zSU-OSNEZ9PRGUJ5
