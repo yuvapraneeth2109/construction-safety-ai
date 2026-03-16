@@ -1,0 +1,7 @@
+dataset/
+*.pt
+*.weights
+*.onnx
+*.jpg
+*.png
+__pycache__/
